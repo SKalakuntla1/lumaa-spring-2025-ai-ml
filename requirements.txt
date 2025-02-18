@@ -1,0 +1,12 @@
+# Core dependencies
+pandas==2.0.0
+scikit-learn==1.2.2
+numpy==1.24.3
+
+# These packages are required by the core dependencies
+python-dateutil>=2.8.2
+pytz>=2020.1
+six>=1.15.0
+joblib>=1.0.1
+threadpoolctl>=2.2.0
+scipy>=1.8.0 
